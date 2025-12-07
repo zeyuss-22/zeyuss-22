@@ -45,6 +45,7 @@ I’m John Zeus Nuevo, and I’m excited to grow, contribute, and start my journ
 
 | **Certification Links** |
 |-------------------------|
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D5B122FD1794F34C6B76CFDC23C718C35C6678B50CBA3C37921B9529C772F99"> Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a> |
 | <a href="https://courses.cognitiveclass.ai/certificates/27bde30ad873406b994407f8d2b2f8e5">CognitiveClass: Certificate Link</a> |
 
 ---
