@@ -34,11 +34,12 @@ I'm Zeus Nuevo, turning codes into elegant solutions and database in organizatio
 
 | **Technical Skills**                 | **Objective Skills**                      |
 |--------------------------------------|-------------------------------------------|
-| Programming :  Java, Javascript      |    Clear communication                                       |
-| Databases: IBM DB2 Cloud             |     Adaptability                                      |
-| Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML      | Teamwork and collaboration  |
-|                                      |                               |
-|                                      |                 |
+| Programming :  Java, Javascript, Python      |    Clear communication            |
+| Web: HTML, CSS,                      |                                           |
+| Databases: IBM DB2 Cloud             |     Adaptability                          |
+| Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML  | Teamwork and collaboration |
+|                                      |                                           |
+|                                      |                                           |
 
 ---
 
