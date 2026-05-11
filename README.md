@@ -1,7 +1,7 @@
 # John Zeus Nuevo
 #### Thank you for taking the time to get to know me.
 
-I’m John Zeus Nuevo, and I’m excited to grow, contribute, and start my journey in the world of Tech 💖
+II’m Juan Dela Cruz, turning codes into elegant solutions and database in organization. From my first day in the BSIT program to my latest deployment, I’ve been obsessed with building tech that works—beautifully
 
 ---
 
