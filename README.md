@@ -18,7 +18,7 @@ I’m John Zeus Nuevo, and I’m excited to grow, contribute, and start my journ
   <tbody>
     <tr>
       <td style="padding: 10px;">
-        BS in Information Technology<br>
+        BS Information Technology<br>
         New Era University<br>
         <i>2024 – present</i>
       </td>
@@ -32,11 +32,12 @@ I’m John Zeus Nuevo, and I’m excited to grow, contribute, and start my journ
 
 ### **Technical Skills vs Objective Skills**
 
-| **Technical Skills**                 | **Objective Skills**                     |
+| **Technical Skills**                 | **Objective Skills**                      |
 |--------------------------------------|-------------------------------------------|
-| Basic HTML, CSS, and JavaScript      | Problem-solving and analytical thinking   |
-| Basic SQL                            | Clear communication                       |
-| Microsoft Office                     | Adaptability                              |
+| Programming :  Java, Javascript      |                                           |
+| Databases: IBM DB2 Cloud             |                                           |
+| Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML      | Clear communication  |
+|                                      | Adaptability                              |
 |                                      | Teamwork and collaboration                |
 
 ---
